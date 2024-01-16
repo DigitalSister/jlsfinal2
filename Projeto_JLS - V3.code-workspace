@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Projeto_JLS - V3"
+		},
+		{
+			"path": "../jlssembug"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jlssembug"
+	}
+}
